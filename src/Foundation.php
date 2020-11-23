@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Hanson\Foundation;
+namespace Yijie\Foundation;
 
 
 use Doctrine\Common\Cache\Cache;
@@ -16,7 +16,7 @@ use Symfony\Component\HttpFoundation\Request;
 /**
  * Class Foundation
  * @property-read Http $http
- * @package Hanson\Foundation
+ * @package Yijie\Foundation
  */
 class Foundation extends Container
 {

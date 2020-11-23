@@ -1,10 +1,10 @@
 <?php
 
-namespace Hanson\Foundation;
+namespace Yijie\Foundation;
 
 use GuzzleHttp\Client as HttpClient;
 use GuzzleHttp\HandlerStack;
-use Hanson\Foundation\Exception\HttpException;
+use Yijie\Foundation\Exception\HttpException;
 use Psr\Http\Message\ResponseInterface;
 
 /**
